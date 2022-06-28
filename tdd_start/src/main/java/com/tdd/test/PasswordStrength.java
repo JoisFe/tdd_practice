@@ -1,5 +1,5 @@
 package com.tdd.test;
 
 public enum PasswordStrength {
-    INVALID, STRONG, NORMAL;
+    INVALID, WEAK, NORMAL, STRONG;
 }
